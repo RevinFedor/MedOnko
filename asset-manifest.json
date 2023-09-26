@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/medonko/static/css/main.dae54b62.css",
+    "main.js": "/medonko/static/js/main.bb851a72.js",
+    "static/media/map.png": "/medonko/static/media/map.ec0e7d0c6b884d68251f.png",
+    "static/media/VectorCart.svg": "/medonko/static/media/VectorCart.9e0c7eb5568dac314ad6ab87facc6c65.svg",
+    "index.html": "/medonko/index.html",
+    "static/media/VectorFav.svg": "/medonko/static/media/VectorFav.93e16e12c7f65e8a049a7da40e5cf4ca.svg",
+    "main.dae54b62.css.map": "/medonko/static/css/main.dae54b62.css.map",
+    "main.bb851a72.js.map": "/medonko/static/js/main.bb851a72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dae54b62.css",
+    "static/js/main.bb851a72.js"
+  ]
+}
