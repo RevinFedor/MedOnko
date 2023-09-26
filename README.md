@@ -1,4 +1,4 @@
- https://revinfedor.github.io/game-store/
+ https://revinfedor.github.io/MedOnko/
 
 # Getting Started with Create React App
 
